@@ -1,8 +1,3 @@
-## Expect Great Things
-
-"It remains unclear what the organizers envision as the result of the workshop." 
-   - Neurips Workshop Reviewer #2 😂
-
 ## Introduction
 
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music including recent advances such as IMAGEN, Flamingo, and DALL·E2. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
@@ -18,6 +13,11 @@ Machine co-creativity continues to grow and attract a wider audience to machine 
 We will aim to balance addressing the technical issues and challenges of applying the latest Machine Learning models and techniques to creativity and design with the philosophical and cultural issues that surround this area of research.
 
 The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning. This workshop solicits viewpoints from artists and technology developers to look beyond technical issues to better understand the needs of artists and creators. 
+
+## Expect Great Things
+
+"It remains unclear what the organizers envision as the result of the workshop." 
+   - Neurips Workshop Reviewer #2 😂
 
 ## Invited Speakers
 
