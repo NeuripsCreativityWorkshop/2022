@@ -14,6 +14,11 @@ We will aim to balance addressing the technical issues and challenges of applyin
 
 The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning. This workshop solicits viewpoints from artists and technology developers to look beyond technical issues to better understand the needs of artists and creators. 
 
+## Expect Great Things
+
+"It remains unclear what the organizers envision as the result of the workshop." 
+   - Neurips Workshop Reviewer #2 😂
+
 ## Invited Speakers
 
 * Aaron Hertzmann
