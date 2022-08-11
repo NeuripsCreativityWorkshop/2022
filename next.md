@@ -59,6 +59,7 @@ We are currently working on the final format for these submissions. Please check
 * Alexa Steinbrück
 * Anastasiia Raina
 * Eunsu Kang
+* (more to be announced!)
 
 ## Schedule
 
