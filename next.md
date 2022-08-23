@@ -51,6 +51,10 @@ We welcome submission of artwork that has been created using machine learning (a
 
 We are currently working on the final format for these submissions. Please check back soon for details.
 
+PROPOSED:
+
+Please submit a short 1-4 page pdf which describes the artwork to be submitted. This should include any visuals of the artwork itself, the title and artist of the artwork, and optionally a short description. These will be used for evaluation only and all accepted works will resubmit final versions for publication on our website.
+
 ## Invited Speakers
 
 * Aaron Hertzmann
@@ -59,11 +63,35 @@ We are currently working on the final format for these submissions. Please check
 * Alexa Steinbrück
 * Anastasiia Raina
 * Eunsu Kang
-* (more to be announced!)
 
-## Schedule
+## Schedule (tentative)
 
-(coming soon...)
+All times are in EST (UTC -5).
+
+Some of the below sessions will occur on our Discord server and some will occur in our Zoom livestream. You will find links to access all sessions at our [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/49965) (registered participants only).
+
+| Time    | Event  |
+|---------|--------|
+| 10:15 | Welcome and Introduction<br/>*Zoom* |
+| 10:30 | Poster Session 1<br/>*All Posters; Discord* |
+| 11:30 | *Speaker Presentation by Aaron Hertzmann; Zoom* |
+| 12:00 | *Speaker Presentation by Yanghua Jin; Zoom* |
+| 12:30 | *Speaker Presentation by Kanru Hua; Zoom* |
+| 13:00 | Q&A Panel Discussion 1<br/>*Aaron Hertzmann, Yanghua Jin, and Kanru Hua; Zoom + Rocketchat* |
+| 13:30 | Art Show / Performance<br/>*TBD* |
+| 14:00 | Social 1<br/>*Discord* |
+| 14:30 | *Paper Orals; Zoom* |
+| 15:00 | *Artwork Spotlights; Zoom* |
+| 15:30 | Poster Session 2<br/>*All Posters; Discord* |
+| 16:30 | *Speaker Presentation by Alexa Steinbrück; Zoom* |
+| 17:00 | *Speaker Presentation by Anastasiia Raina; Zoom* |
+| 17:30 | *Speaker Presentation by Eunsu Kang; Zoom* |
+| 18:00 | Q&A Panel Discussion 2<br/>*Alexa Steinbrück, Anastasiia Raina, and Eunsu Kang; Zoom + Rocketchat* |
+| 18:30 | Art Show / Performance<br/>*TBD* |
+| 19:00 | Closing remarks<br/>*Zoom* |
+| 19:15 | Social 2<br/>*Discord* |
+| 20:00 | End |
+
 
 ## Contact
 
