@@ -49,7 +49,17 @@ We welcome submission of artwork that has been created using machine learning (a
 * Sound
 * Dance, Performance, Installation, Physical Object, Food, etc
 
-We are currently working on the final format for these submissions. Please check back soon for details.
+This year we are asking for submissions to consist of:
+
+* In a text file: The title, year, artist, description (up to 200 words). Name the text file: project_name_00.txt
+* One 1920x1080 main image (project_name_02.png)
+* Optional: Up to 3 additional 1920x1080 images and/or a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (project_name_03.png, project_name_04.png, project_name_05.png, project_name_06.png and/or project_name_03.mp4)
+
+Place these in a single `project_name.zip` file. 
+Submit this through the [CMT portal]().
+
+We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+
 
 ## Invited Speakers
 
