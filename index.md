@@ -57,6 +57,7 @@ This year we are asking for submissions to consist of:
 * Optional: One 1080 x 1920 MP4 landscape video of up to 60 seconds showing the work in more detail. Name this like: project_name_03.mp4.
 
 Place these in a single zip archive called project_name.zip. 
+
 Submit this zip file through [our CMT portal](https://cmt3.research.microsoft.com/ML4CD2022).
 
 We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
