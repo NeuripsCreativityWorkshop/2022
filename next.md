@@ -75,7 +75,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 10:15 | Welcome and Introduction<br/>*Zoom* |
 | 10:30 | Poster Session 1<br/>*All Posters; Discord* |
 | 11:30 | *Speaker Presentation by Aaron Hertzmann; Zoom* |
-| 12:00 | *Speaker Presentation by Kanru Hua; Zoom* |
+| 16:30 | *Speaker Presentation by Alexa Steinbrück; Zoom* |
 | 12:30 | ????
 | 13:00 | Q&A Panel Discussion 1<br/>*Aaron Hertzmann, Yanghua Jin, and Kanru Hua; Zoom + Rocketchat* |
 | 13:30 | Art Show / Performance<br/>*TBD* |
@@ -83,10 +83,10 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 14:30 | *Paper Orals; Zoom* |
 | 15:00 | *Artwork Spotlights; Zoom* |
 | 15:30 | Poster Session 2<br/>*All Posters; Discord* |
-| 16:30 | *Speaker Presentation by Alexa Steinbrück; Zoom* |
 | 17:00 | *Speaker Presentation by Anastasiia Raina; Zoom* |
 | 17:30 | *Speaker Presentation by Eunsu Kang; Zoom* |
 | ??:?? | *Speaker Presentation by Yanghua Jin; Zoom* |
+| 12:00 | *Speaker Presentation by Kanru Hua; Zoom* |
 | 18:00 | Q&A Panel Discussion 2<br/>*Alexa Steinbrück, Anastasiia Raina, and Eunsu Kang; Zoom + Rocketchat* |
 | 18:30 | Art Show / Performance<br/>*TBD* |
 | 19:00 | Closing remarks<br/>*Zoom* |
