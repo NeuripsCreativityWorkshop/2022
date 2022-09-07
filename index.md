@@ -60,7 +60,9 @@ Place these in a single zip archive called project_name.zip.
 
 Submit this zip file through [our CMT portal](https://cmt3.research.microsoft.com/ML4CD2022).
 
-We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+The reason for this specific submission format is that the text file and one (or more) images will be displayed in an online gallery. Please see [last year's gallery site](https://neuripscreativityworkshop.github.io/2021/#/gallery) for reference. 
+
+Also, during the workshop itself we will show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
 
 ## Invited Speakers
