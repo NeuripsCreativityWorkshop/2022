@@ -16,7 +16,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 
 ## Call for Submissions
 
-We invite submissions in the form of papers and/or artwork. Deadline for submissions is Monday 19 Sept 11:59pm (anywhere on earth).
+We invite submissions in the form of papers and/or artwork. Deadline for submissions is ~~Monday 19 Sept~~ Extended! Monday Sept 26 (11:59pm, anywhere on earth)
 
 ### To Submit a Paper
 
@@ -84,8 +84,6 @@ In addition, during the online workshop itself we will show a number of accepted
 ## Contact
 
 If you have any questions, please contact us at neuripscreativityworkshop@googlegroups.com
-
-Workshop website: https://neuripscreativityworkshop.github.io/2021
 
 Previous years:
 
