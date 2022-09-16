@@ -77,9 +77,34 @@ In addition, during the online workshop itself we will show a number of accepted
 * Eunsu Kang
 * (more to be announced!)
 
-## Schedule
+## Schedule (subject to change)
 
-(coming soon...)
+Some of the below sessions will occur on our Discord server and some will occur in our Zoom livestream. You will find links to access all sessions at our [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/49965) (registered participants only).
+
+| Time    | Event  |
+|---------|--------|
+| 09:15 | Welcome and Introduction<br/>*Zoom* |
+| 09:30 | Poster Session 1<br/>*All Posters; Discord* |
+| 10:30 | *Speaker Presentation by Aaron Hertzmann; Zoom* |
+| 11:00 | *Speaker Presentation by Alexa Steinbrück; Zoom* |
+| 11:30 | *Speaker Presentation / Imagen; Zoom* |
+| 12:00 | *Speaker Presentation / Stable Diffusion; Zoom* |
+| 12:30 | Q&A Panel Discussion 1<br/>*Aaron Hertzmann, Alexa Steinbrück, others; *Zoom + Rocketchat* |
+| 13:00 | Art Show <br/>*Zoom* |
+| 13:30 | Social 1<br/>*Discord* |
+| 14:00 | *Paper Orals; Zoom* |
+| 14:30 | *Artwork Spotlights; Zoom* |
+| 15:00 | AI Performance<br/>*Discord* |
+| 16:00 | Poster Session 2<br/>*All Posters; Discord* |
+| 17:00 | *Speaker Presentation by Anastasiia Raina; Zoom* |
+| 17:30 | *Speaker Presentation by Eunsu Kang; Zoom* |
+| 18:00 | *Speaker Presentation by Yanghua Jin; Zoom* |
+| 18:30 | *Speaker Presentation by Emad Kanru Hua; Zoom* |
+| 19:00 | Q&A Panel Discussion 2<br/>*Anastasiia Raina, Eunsu Kang, Yanghua Jin, Emad Kanru Hua; Zoom + Rocketchat* |
+| 19:30 | Art Show (rebroadcast) <br/>*TBD* |
+| 20:00 | Closing remarks<br/>*Zoom* |
+| 20:15 | Social 2<br/>*Discord* |
+| 21:00 | End |
 
 ## Contact
 
@@ -99,7 +124,7 @@ A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). Th
 
 ## Organisers
 
-Samaneh Azadi
-Lia Coleman
-Yingtao Tian
-Tom White
+Samaneh Azadi<br>
+Lia Coleman<br>
+Yingtao Tian<br>
+Tom White<br>
