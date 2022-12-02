@@ -100,7 +100,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 17:30 | *Speaker Presentation by Eunsu Kang; Zoom* |
 | 18:00 | *Speaker Presentation by Yanghua Jin; Zoom* |
 | 18:30 | *Speaker Presentation by Kanru Hua; Zoom* |
-| 19:00 | Q&A Panel Discussion 2<br/>*Anastasiia Raina, Eunsu Kang, Yanghua Jin, Emad Kanru Hua; Zoom + Rocketchat* |
+| 19:00 | Q&A Panel Discussion 2<br/>*Anastasiia Raina, Eunsu Kang, Yanghua Jin, Kanru Hua; Zoom + Rocketchat* |
 | 19:30 | Art Show (rebroadcast) <br/>*TBD* |
 | 20:00 | Closing remarks<br/>*Zoom* |
 | 20:15 | Social 2<br/>*Discord* |
