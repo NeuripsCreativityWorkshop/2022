@@ -77,7 +77,7 @@ In addition, during the online workshop itself we will show a number of accepted
 * Eunsu Kang
 * (more to be announced!)
 
-## Schedule (subject to change)
+## Schedule
 
 Some of the below sessions will occur on our Discord server and some will occur in our Zoom livestream. You will find links to access all sessions at our [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/49965) (registered participants only).
 
@@ -87,9 +87,9 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 09:30 | Poster Session 1<br/>*All Posters; Discord* |
 | 10:30 | *Speaker Presentation by Aaron Hertzmann; Zoom* |
 | 11:00 | *Speaker Presentation by Alexa Steinbrück; Zoom* |
-| 11:30 | *Speaker Presentation / Imagen; Zoom* |
+| 11:30 | *Speaker Presentation by Mohammad Norouzi; Zoom* |
 | 12:00 | *Speaker Presentation / Stable Diffusion; Zoom* |
-| 12:30 | Q&A Panel Discussion 1<br/>*Aaron Hertzmann, Alexa Steinbrück, others; *Zoom + Rocketchat* |
+| 12:30 | Q&A Panel Discussion 1<br/>*Aaron Hertzmann, Alexa Steinbrück, others; Moderated by Bokar N'Diaye. *Zoom + Rocketchat* |
 | 13:00 | Art Show <br/>*Zoom* |
 | 13:30 | Social 1<br/>*Discord* |
 | 14:00 | *Paper Orals; Zoom* |
@@ -100,11 +100,39 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 17:30 | *Speaker Presentation by Eunsu Kang; Zoom* |
 | 18:00 | *Speaker Presentation by Yanghua Jin; Zoom* |
 | 18:30 | *Speaker Presentation by Kanru Hua; Zoom* |
-| 19:00 | Q&A Panel Discussion 2<br/>*Anastasiia Raina, Eunsu Kang, Yanghua Jin, Kanru Hua; Zoom + Rocketchat* |
+| 19:00 | Q&A Panel Discussion 2<br/>*Anastasiia Raina, Eunsu Kang, Yanghua Jin, Kanru Hua; Moderated by Yingtao Tian. Zoom + Rocketchat* |
 | 19:30 | Art Show (rebroadcast) <br/>*TBD* |
 | 20:00 | Closing remarks<br/>*Zoom* |
 | 20:15 | Social 2<br/>*Discord* |
 | 21:00 | End |
+
+## Accepted Papers
+
+| Title    | Authors  |
+|---------|--------|
+| Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model | Sangjun Han (LG AI Research)*; Hyeongrae Ihm (LG AI Research); DaeHan Ahn (University of Ulsan); Woohyung Lim (LG AI Research) |
+| Videogenic: Video Highlights via Photogenic Moments | David Chuan-En Lin (Carnegie Mellon University)*; Fabian Caba (Adobe Research); Joon-Young Lee (Adobe Research); Oliver Wang (Adobe Systems Inc); Nikolas Martelaro (Carnegie Mellon University) |
+| Co-writing screenplays and theatre scripts alongside language models using Dramatron | Piotr Mirowski (DeepMind); Kory  W. Mathewson (DeepMind)*; Jaylen Pittman (DeepMind); Richard EVANS (Richard EVANS) |
+| High-Resolution Image Editing via Multi-Stage Blended Diffusion | Johannes Ackermann (The University of Tokyo)*; Minjun Li (Preferred Networks) |
+| Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models | Ricardo Kleinlein (Universidad Politécnica de Madrid)*; Cristina Luna-Jiménez (Universidad Politécnica de Madrid); Fernando Fernández-Martínez  (Universidad Politécnica de Madrid) |
+| Intentional Dance Choreography with Semi-Supervised Recurrent VAEs | Mathilde Papillon (University California Santa Barbara)*; Mariel Pettee (Lawrence Berkeley National Lab); Nina Miolane (UCSB) |
+| Visualizing Semantic Walks | Shumeet Baluja (Google, Inc.)*; David Marwood (Google, Inc) |
+| Personalizing Text-to-Image Generation via Aesthetic Gradients | Victor Gallego (Komorebi AI)* |
+| 3DGEN: A GAN-based approach for generating novel 3D models from image data | Antoine Schnepf (ENS Paris Saclay/Criteo)*; Ugo Tanielian (UPMC-Criteo); Flavian Vasile (Criteo) |
+| CICADA: Interface for Concept Sketches Using CLIP | Tomas Lawton (The University of Sydney)* |
+| VideoMap: Video Editing in Latent Space | David Chuan-En Lin (Carnegie Mellon University)*; Fabian Caba (Adobe Research); Joon-Young Lee (Adobe Research); Oliver Wang (Adobe Systems Inc); Nikolas Martelaro (Carnegie Mellon University) |
+| How do Musicians Experience Jamming with a Co-Creative “AI”? | Notto J. W. Thelle (Oslo Metropolitan University)*; Rebecca Fiebrink (University of the Arts London) |
+| Botto: A Decentralized Autonomous Artist | Mario Klingeman (Artist); Simon Hudson (BottoDAO)*; Zivvy Epstein (MIT Media Lab) |
+| Surreal VR Pong: LLM approach to Game Design | Jasmine A Roberts (University of California San Diego); Andrzej Banburski (Microsoft)*; Jaron Lanier (Microsoft) |
+| Not All Artists Speak English: Generating images with DALL-E 2 from Portuguese | Gretchen Eggers (Fulbright/USP)* |
+| Datasets That Are Not: Evolving Novelty Through Sparsity and Iterated Learning | Yusong Wu (University of Montreal)*; Kyle Kastner (Université de Montréal); Tim Cooijmans (Mila); Cheng-Zhi Anna Huang (Google Brain); Aaron Courville (MILA, Université de Montréal) |
+| Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization | Peter Schaldenbrand (Carnegie Mellon University)*; Zhixuan Liu (Carnegie Mellon University); Jean Oh (Carnegie Mellon University) |
+| Sequence Modeling Motion-Captured Dance | Emily Napier (Dalhousie University)*; Gavia Gray (Vector Institute); Sageev Oore (Dalhousie University and Vector Institute) |
+| A programmable interface for creative exploration | Gerard Serra (Batou.xyz)*; Oriol Domingo (Batou.xyz); Pol Baladas (Batou.xyz) |
+## Accepted Artworks
+
+| Title    | Authors  |
+|---------|--------|
 
 ## Contact
 
