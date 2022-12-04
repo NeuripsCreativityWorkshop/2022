@@ -81,8 +81,34 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted Artworks
 
-| Title    | Authors  |
-|---------|--------|
+| # | Title    | Authors  |
+|----------|--------|
+| 1 | Armored Skin& Dark Seed | Jang, Yunyoung |
+| 2 | Artificial intelligence breeding of underwater plants | HAKIMSHAFAEI, MILAD |
+| 3 | Compressed ideographs -visualized- | Aoki, Seiya; Takaishi, Keito; Ishii, Asuka; Shibuya, Kazufumi; Matsuoka, Yuma; Kobayashi, Atsuya; Tokui, Nao |
+| 4 | Song of Hairs | Tang, Song |
+| 5 | Making Dance with Intention | Papillon, Mathilde; Pettee, Mariel; Miolane, Nina |
+| 6 | Psychedelic Forms | Canet Sola, Mar; Guljajeva, Varvara |
+| 7 | Dream Painter | Canet Sola, Mar; Guljajeva, Varvara |
+| 8 | Little Science | Epstein, Vadim |
+| 9 | Salvaging the beauty left behind | Takaishi, Keito; Ishii, Asuka; Shibuya, Kazufumi; Tokui, Nao |
+| 10 | Hidden Clergy | Porres, Diego |
+| 11 | Alt Nature | Ng, Zihou |
+| 12 | Flowers for Frankenstein’s Monster | Schultz, Derrick |
+| 13 | Interactive Afflatus | Naruse, Santa |
+| 14 | Ducking Jorn | Fedeli, Filippo; Ainio, Anna Angelica |
+| 15 | Autolume Acedia (2022) | Kraasch, Jonas F; Pasquier, Philippe |
+| 16 | [a]life drawing | Estevez, David |
+| 17 | Lockdown (music video) | Sun, Sophia H; Schedel, Margaret; Yuditskaya, Sofy; Rajan, Ria; Green-Mateu, Susan E |
+| 18 | The Old Tune | Wiehe, Anton O |
+| 19 | Old Sights, New Visions | Cole, Adam |
+| 20 | we meet, we connect | rojas, sebastian; lab, hypereikon |
+| 21 | The Quietest Remains | Thompson, Ryan |
+| 22 | Reach Out | Růžička, Vít |
+| 23 | The Faded Landscape | Cheng, Mingyong |
+| 24 | Machine Reflections: A Self-Portrait Series | Szantho, Orsolya |
+| 25 | Tasty Piano | Colas, Cédric |
+| 26 | Incorporation: artwork | Teodorescu, Laetitia |
 
 ## Contact
 
