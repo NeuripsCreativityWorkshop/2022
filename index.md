@@ -110,8 +110,10 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 | Title    | Authors  |
 |---------|--------|
-| Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model | Sangjun Han (LG AI Research)*; Hyeongrae Ihm (LG AI Research); DaeHan Ahn (University of Ulsan); Woohyung Lim (LG AI Research) |
-| Videogenic: Video Highlights via Photogenic Moments | David Chuan-En Lin (Carnegie Mellon University)*; Fabian Caba (Adobe Research); Joon-Young Lee (Adobe Research); Oliver Wang (Adobe Systems Inc); Nikolas Martelaro (Carnegie Mellon University) |
+| [Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model](papers/ml4cd2022_paper01.pdf) | Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim  |
+| [Videogenic: Video Highlights via Photogenic Moments](papers/ml4cd2022_paper02.pdf) | David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro |
+
+
 | Co-writing screenplays and theatre scripts alongside language models using Dramatron | Piotr Mirowski (DeepMind); Kory  W. Mathewson (DeepMind)*; Jaylen Pittman (DeepMind); Richard EVANS (Richard EVANS) |
 | High-Resolution Image Editing via Multi-Stage Blended Diffusion | Johannes Ackermann (The University of Tokyo)*; Minjun Li (Preferred Networks) |
 | Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models | Ricardo Kleinlein (Universidad Politécnica de Madrid)*; Cristina Luna-Jiménez (Universidad Politécnica de Madrid); Fernando Fernández-Martínez  (Universidad Politécnica de Madrid) |
