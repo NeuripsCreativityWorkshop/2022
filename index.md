@@ -82,17 +82,17 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 | # | Title    | Authors  |
 |----------|--------|
-| 1 | Armored Skin& Dark Seed | Jang, Yunyoung |
-| 2 | Artificial intelligence breeding of underwater plants | HAKIMSHAFAEI, MILAD |
-| 3 | Compressed ideographs -visualized- | Aoki, Seiya; Takaishi, Keito; Ishii, Asuka; Shibuya, Kazufumi; Matsuoka, Yuma; Kobayashi, Atsuya; Tokui, Nao |
-| 4 | Song of Hairs | Tang, Song |
-| 5 | Making Dance with Intention | Papillon, Mathilde; Pettee, Mariel; Miolane, Nina |
-| 6 | Psychedelic Forms | Canet Sola, Mar; Guljajeva, Varvara |
-| 7 | Dream Painter | Canet Sola, Mar; Guljajeva, Varvara |
-| 8 | Little Science | Epstein, Vadim |
-| 9 | Salvaging the beauty left behind | Takaishi, Keito; Ishii, Asuka; Shibuya, Kazufumi; Tokui, Nao |
-| 10 | Hidden Clergy | Porres, Diego |
-| 11 | Alt Nature | Ng, Zihou |
+| 1 | Armored Skin& Dark Seed | Yunyoung Jang |
+| 2 | Artificial intelligence breeding of underwater plants | MILAD HAKIMSHAFAEI |
+| 3 | Compressed ideographs -visualized- | Seiya Aoki, Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Yuma Matsuoka, Atsuya Kobayashi, Nao Tokui |
+| 4 | Song of Hairs | Song Tang |
+| 5 | Making Dance with Intention | Mathilde Papillon, Mariel Pettee, Nina Miolane |
+| 6 | Psychedelic Forms | Mar Canet Sola, Varvara Guljajeva |
+| 7 | Dream Painter | Mar Canet Sola, Varvara Guljajeva |
+| 8 | Little Science | Vadim Epstein |
+| 9 | Salvaging the beauty left behind | Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Nao Tokui |
+| 10 | Hidden Clergy | Diego Porres |
+| 11 | Alt Nature | Zihou Ng  |
 | 12 | Flowers for Frankenstein’s Monster | Schultz, Derrick |
 | 13 | Interactive Afflatus | Naruse, Santa |
 | 14 | Ducking Jorn | Fedeli, Filippo; Ainio, Anna Angelica |
