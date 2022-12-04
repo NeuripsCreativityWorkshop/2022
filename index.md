@@ -60,7 +60,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 1 | [Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model](papers/ml4cd2022_paper01.pdf) | Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim  |
 | 2 | [Videogenic: Video Highlights via Photogenic Moments](papers/ml4cd2022_paper02.pdf) | David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro |
 | 3 | [Co-writing screenplays and theatre scripts alongside language models using Dramatron](papers/ml4cd2022_paper03.pdf)| Piotr Mirowski, Kory  W. Mathewson, Jaylen Pittman, Richard EVANS |
-| 4 | High-Resolution Image Editing via Multi-Stage Blended Diffusion | Johannes Ackermann, Minjun Li |
+| 4 | [High-Resolution Image Editing via Multi-Stage Blended Diffusion](papers/ml4cd2022_paper04.pdf) | Johannes Ackermann, Minjun Li |
 | 5 | [Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models](papers/ml4cd2022_paper05.pdf) | Ricardo Kleinlein, Cristina Luna-Jiménez, Fernando Fernández-Martínez |
 | 6 | [Intentional Dance Choreography with Semi-Supervised Recurrent VAEs](papers/ml4cd2022_paper06.pdf) | Mathilde Papillon, Mariel Pettee, Nina Miolane |
 | 7 | [Visualizing Semantic Walks](papers/ml4cd2022_paper07.pdf) | Shumeet Baluja, David Marwood |
