@@ -93,21 +93,21 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 9 | Salvaging the beauty left behind | Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Nao Tokui |
 | 10 | Hidden Clergy | Diego Porres |
 | 11 | Alt Nature | Zihou Ng  |
-| 12 | Flowers for Frankenstein’s Monster | Schultz, Derrick |
-| 13 | Interactive Afflatus | Naruse, Santa |
-| 14 | Ducking Jorn | Fedeli, Filippo; Ainio, Anna Angelica |
-| 15 | Autolume Acedia (2022) | Kraasch, Jonas F; Pasquier, Philippe |
-| 16 | [a]life drawing | Estevez, David |
-| 17 | Lockdown (music video) | Sun, Sophia H; Schedel, Margaret; Yuditskaya, Sofy; Rajan, Ria; Green-Mateu, Susan E |
-| 18 | The Old Tune | Wiehe, Anton O |
-| 19 | Old Sights, New Visions | Cole, Adam |
-| 20 | we meet, we connect | rojas, sebastian; lab, hypereikon |
-| 21 | The Quietest Remains | Thompson, Ryan |
-| 22 | Reach Out | Růžička, Vít |
-| 23 | The Faded Landscape | Cheng, Mingyong |
-| 24 | Machine Reflections: A Self-Portrait Series | Szantho, Orsolya |
-| 25 | Tasty Piano | Colas, Cédric |
-| 26 | Incorporation: artwork | Teodorescu, Laetitia |
+| 12 | Flowers for Frankenstein’s Monster | Derrick Schultz |
+| 13 | Interactive Afflatus | Santa Naruse |
+| 14 | Ducking Jorn | Filippo Fedeli, Anna Angelica Ainio |
+| 15 | Autolume Acedia (2022) | Jonas F Kraasch, Philippe Pasquier |
+| 16 | [a]life drawing | David Estevez |
+| 17 | Lockdown (music video) | Sophia H Sun, Margaret Schedel, Sofy Yuditskaya, Ria Rajan, Susan E Green-Mateu |
+| 18 | The Old Tune | Anton O Wiehe |
+| 19 | Old Sights, New Visions | Adam Cole |
+| 20 | we meet, we connect | sebastian rojas, hypereikon lab |
+| 21 | The Quietest Remains | Ryan Thompson  |
+| 22 | Reach Out | Vít Růžička |
+| 23 | The Faded Landscape | Mingyong Cheng |
+| 24 | Machine Reflections: A Self-Portrait Series | Orsolya Szantho |
+| 25 | Tasty Piano | Cédric Colas |
+| 26 | Incorporation: artwork | Laetitia Teodorescu |
 
 ## Contact
 
