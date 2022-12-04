@@ -108,19 +108,19 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted Papers
 
-| Title    | Authors  |
-|---------|--------|
-| [Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model](papers/ml4cd2022_paper01.pdf) | Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim  |
-| [Videogenic: Video Highlights via Photogenic Moments](papers/ml4cd2022_paper02.pdf) | David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro |
+| # | Title    | Authors  |
+|----------|--------|
+| 1 | [Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model](papers/ml4cd2022_paper01.pdf) | Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim  |
+| 2 | [Videogenic: Video Highlights via Photogenic Moments](papers/ml4cd2022_paper02.pdf) | David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro |
+| 3 | [Co-writing screenplays and theatre scripts alongside language models using Dramatron](papers/ml4cd2022_paper03.pdf)| Piotr Mirowski, Kory  W. Mathewson, Jaylen Pittman, Richard EVANS |
+| 4 | [High-Resolution Image Editing via Multi-Stage Blended Diffusion](papers/ml4cd2022_paper05.pdf) | Johannes Ackermann, Minjun Li |
+| 5 | [Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models](papers/ml4cd2022_paper05.pdf) | Ricardo Kleinlein, Cristina Luna-Jiménez, Fernando Fernández-Martínez |
+| 6 | [Intentional Dance Choreography with Semi-Supervised Recurrent VAEs](papers/ml4cd2022_paper06.pdf) | Mathilde Papillon, Mariel Pettee, Nina Miolane |
+| 7 | [Visualizing Semantic Walks](papers/ml4cd2022_paper07.pdf) | Shumeet Baluja, David Marwood |
+| 8 | [Personalizing Text-to-Image Generation via Aesthetic Gradients](papers/ml4cd2022_paper08.pdf) | Victor Gallego |
+| 9 | [3DGEN: A GAN-based approach for generating novel 3D models from image data](papers/ml4cd2022_paper09.pdf) | Antoine Schnepf, Ugo Tanielian, Flavian Vasile |
 
 
-| Co-writing screenplays and theatre scripts alongside language models using Dramatron | Piotr Mirowski (DeepMind); Kory  W. Mathewson (DeepMind)*; Jaylen Pittman (DeepMind); Richard EVANS (Richard EVANS) |
-| High-Resolution Image Editing via Multi-Stage Blended Diffusion | Johannes Ackermann (The University of Tokyo)*; Minjun Li (Preferred Networks) |
-| Language Does More Than Describe: On The Lack Of Figurative Speech in Text-To-Image Models | Ricardo Kleinlein (Universidad Politécnica de Madrid)*; Cristina Luna-Jiménez (Universidad Politécnica de Madrid); Fernando Fernández-Martínez  (Universidad Politécnica de Madrid) |
-| Intentional Dance Choreography with Semi-Supervised Recurrent VAEs | Mathilde Papillon (University California Santa Barbara)*; Mariel Pettee (Lawrence Berkeley National Lab); Nina Miolane (UCSB) |
-| Visualizing Semantic Walks | Shumeet Baluja (Google, Inc.)*; David Marwood (Google, Inc) |
-| Personalizing Text-to-Image Generation via Aesthetic Gradients | Victor Gallego (Komorebi AI)* |
-| 3DGEN: A GAN-based approach for generating novel 3D models from image data | Antoine Schnepf (ENS Paris Saclay/Criteo)*; Ugo Tanielian (UPMC-Criteo); Flavian Vasile (Criteo) |
 | CICADA: Interface for Concept Sketches Using CLIP | Tomas Lawton (The University of Sydney)* |
 | VideoMap: Video Editing in Latent Space | David Chuan-En Lin (Carnegie Mellon University)*; Fabian Caba (Adobe Research); Joon-Young Lee (Adobe Research); Oliver Wang (Adobe Systems Inc); Nikolas Martelaro (Carnegie Mellon University) |
 | How do Musicians Experience Jamming with a Co-Creative “AI”? | Notto J. W. Thelle (Oslo Metropolitan University)*; Rebecca Fiebrink (University of the Arts London) |
