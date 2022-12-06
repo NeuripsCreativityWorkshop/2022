@@ -28,7 +28,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 
 Some of the below sessions will occur on our Discord server and some will occur in our Zoom livestream. You will find links to access all sessions at our [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/49965) (registered participants only).
 
-| Time    | Event  |
+| Time (CST)   | Event  |
 |---------|--------|
 | 09:15 | Welcome and Introduction<br/>*Zoom* |
 | 09:30 | Poster Session 1<br/>*All Posters; Discord* |
