@@ -69,7 +69,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 10 | [CICADA: Interface for Concept Sketches Using CLIP](papers/ml4cd2022_paper10.pdf) | Tomas Lawton |
 | 11 | [VideoMap: Video Editing in Latent Space](papers/ml4cd2022_paper11.pdf) |  David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro|
 | 12 | [How do Musicians Experience Jamming with a Co-Creative “AI”?](papers/ml4cd2022_paper12.pdf) | Notto J. W. Thelle, Rebecca Fiebrink |
-| 13 | Botto: A Decentralized Autonomous Artist | Mario Klingeman, Simon Hudson, Zivvy Epstein |
+| 13 | [Botto: A Decentralized Autonomous Artist](papers/ml4cd2022_paper13.pdf) | Mario Klingeman, Simon Hudson, Zivvy Epstein |
 | 14 | [Surreal VR Pong: LLM approach to Game Design](papers/ml4cd2022_paper14.pdf) | Jasmine A Roberts, Andrzej Banburski, Jaron Lanier |
 | 15 | [Not All Artists Speak English: Generating images with DALL-E 2 from Portuguese](papers/ml4cd2022_paper15.pdf) | Gretchen Eggers |
 | 16 | [Datasets That Are Not: Evolving Novelty Through Sparsity and Iterated Learning](papers/ml4cd2022_paper16.pdf) | Yusong Wu, Kyle Kastner, Tim Cooijmans, Cheng-Zhi Anna Huang, Aaron Courville |
