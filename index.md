@@ -80,7 +80,16 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted Artworks
 
-| # | Title    | Authors  |
+### Spotlights
+| Title    | Artists  |
+| Flowers for Frankenstein’s Monster | Derrick Schultz |
+| Machine Reflections: A Self-Portrait Series | Orsolya Szantho |
+| Ducking Jorn | Filippo Fedeli, Anna Angelica Ainio |
+| Salvaging the beauty left behind | Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Nao Tokui |
+| Interactive Afflatus | Santa Naruse |
+
+### Art Gallery
+| # | Title    | Artists  |
 |----------|--------|
 | 1 | Armored Skin& Dark Seed | Yunyoung Jang |
 | 2 | Artificial intelligence breeding of underwater plants | MILAD HAKIMSHAFAEI |
@@ -108,6 +117,8 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 24 | Machine Reflections: A Self-Portrait Series | Orsolya Szantho |
 | 25 | Tasty Piano | Cédric Colas |
 | 26 | Incorporation: artwork | Laetitia Teodorescu |
+
+Special thanks to the artwork jury: Beverley-Claire Okogwu (CMU); Eunsu Kang (Carnegie Mellon University); Evan Casey (Cadmium); Lia Coleman (Carnegie Mellon University); Moisés Horta Valenzuela (moiseshorta.audio); Nao Tokui (Keio); Terence Broad (University of the Arts London).
 
 ## Contact
 
