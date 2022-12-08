@@ -56,7 +56,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 ## Accepted Papers
 
 | # | Title    | Authors  |
-|----------|--------|
+|---------|----------|--------|
 | 1 | [Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model](papers/ml4cd2022_paper01.pdf) | Sangjun Han, Hyeongrae Ihm, DaeHan Ahn, Woohyung Lim  |
 | 2 | [Videogenic: Video Highlights via Photogenic Moments](papers/ml4cd2022_paper02.pdf) | David Chuan-En Lin, Fabian Caba, Joon-Young Lee, Oliver Wang, Nikolas Martelaro |
 | 3 | [Co-writing screenplays and theatre scripts alongside language models using Dramatron](papers/ml4cd2022_paper03.pdf)| Piotr Mirowski, Kory  W. Mathewson, Jaylen Pittman, Richard EVANS |
@@ -82,6 +82,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ### Spotlights
 | Title    | Artists  |
+|---------|--------|
 | Flowers for Frankenstein’s Monster | Derrick Schultz |
 | Machine Reflections: A Self-Portrait Series | Orsolya Szantho |
 | Ducking Jorn | Filippo Fedeli, Anna Angelica Ainio |
@@ -90,10 +91,10 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ### Art Gallery
 | # | Title    | Artists  |
-|----------|--------|
+|---------|----------|--------|
 | 1 | Armored Skin& Dark Seed | Yunyoung Jang |
 | 2 | Artificial intelligence breeding of underwater plants | MILAD HAKIMSHAFAEI |
-| 3 | Compressed ideographs -visualized- | Seiya Aoki, Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Yuma Matsuoka, Atsuya Kobayashi, Nao Tokui |
+| 3 | Compressed ideographs -visualized- | Scott Allen, Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Yuma Matsuoka, Atsuya Kobayashi, Nao Tokui |
 | 4 | Song of Hairs | Song Tang |
 | 5 | Making Dance with Intention | Mathilde Papillon, Mariel Pettee, Nina Miolane |
 | 6 | Psychedelic Forms | Mar Canet Sola, Varvara Guljajeva |
