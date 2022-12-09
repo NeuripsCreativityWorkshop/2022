@@ -84,9 +84,9 @@ This year we accepted 26 artworks to the gallery from a total of 43 artwork subm
 
 Special thanks to the artwork jury: Beverley-Claire Okogwu (CMU); Eunsu Kang (CMU); Evan Casey (Cadmium); Lia Coleman (CMU); Moisés Horta Valenzuela (moiseshorta.audio); Nao Tokui (Keio); Terence Broad (University of the Arts London).
 
-{% include youtubeplayer.html id='OCJbEypgjWo' %}
+{% include youtubeplayer.html id='_6pA5xsnnwo' %}
 
-### Spotlights
+### Artwork Spotlights
 
 | Title    | Artists  |
 |---------|--------|
@@ -97,7 +97,7 @@ Special thanks to the artwork jury: Beverley-Claire Okogwu (CMU); Eunsu Kang (CM
 | Interactive Afflatus | Santa Naruse |
 
 
-### Art Gallery
+### The Art Gallery
 
 | # | Title    | Artists  |
 |---------|----------|--------|
