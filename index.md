@@ -81,6 +81,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 ## Accepted Artworks
 
 ### Spotlights
+
 | Title    | Artists  |
 |---------|--------|
 | Flowers for Frankenstein’s Monster | Derrick Schultz |
@@ -89,7 +90,9 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | Salvaging the beauty left behind | Keito Takaishi, Asuka Ishii, Kazufumi Shibuya, Nao Tokui |
 | Interactive Afflatus | Santa Naruse |
 
+
 ### Art Gallery
+
 | # | Title    | Artists  |
 |---------|----------|--------|
 | 1 | Armored Skin& Dark Seed | Yunyoung Jang |
