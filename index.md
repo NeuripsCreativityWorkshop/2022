@@ -84,7 +84,7 @@ This year we accepted 26 artworks to the gallery from a total of 43 artwork subm
 
 Special thanks to the artwork jury: Beverley-Claire Okogwu (CMU); Eunsu Kang (CMU); Evan Casey (Cadmium); Lia Coleman (CMU); Moisés Horta Valenzuela (moiseshorta.audio); Nao Tokui (Keio); Terence Broad (University of the Arts London).
 
-{% include youtubeplayer.html id='PNMkyIPCPJw' %}
+{% include youtubeplayer.html id='OCJbEypgjWo' %}
 
 ### Spotlights
 
