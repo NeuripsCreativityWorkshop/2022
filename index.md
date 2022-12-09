@@ -80,7 +80,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted Artworks
 
-This year we accepted 26 artworks to the gallery from a total of 43 artwork submissions, resulting in a 60.4% acceptance rate. Five exceptional artworks were awarded a spotlight, where they had the option to speak 5-7 min about the artwork during the workshop. All artworks were also shown in the form of [this art show video](https://youtu.be/PNMkyIPCPJw).
+This year we accepted 26 artworks to the gallery from a total of 43 artwork submissions, resulting in a 60.4% acceptance rate. Five exceptional artworks were awarded a spotlight, where they had the option to speak 5-7 min about the artwork during the workshop. All artworks were also shown in the form of the below art show video.
 
 Special thanks to the artwork jury: Beverley-Claire Okogwu (CMU); Eunsu Kang (CMU); Evan Casey (Cadmium); Lia Coleman (CMU); Moisés Horta Valenzuela (moiseshorta.audio); Nao Tokui (Keio); Terence Broad (University of the Arts London).
 
